@@ -7,13 +7,12 @@ body{
     box-shadow: 0 10px 12px rgba(0,0,0,.3)
 }
 .navbar-brand{
-    background-color: #63c6ae;
+    background-color: #c6a363;
     text-align: right;
     min-width: 9rem;
     color: white;
     padding-top: 1rem;
     padding-bottom: 1rem;
-    text-transform: uppercase;
     font-size: 1.4rem;
     font-weight: bold;
 }
@@ -30,7 +29,7 @@ body{
     font-weight: 600;
 }
 .nav-link:hover{
-    color: #63c6ae;
+    color: #c6a363;
 }
 
 .navbar-nav{
@@ -53,7 +52,7 @@ body{
 
 
 .carousel-caption .h5{
-    background-color: #63c6ae;
+    background-color: #c6a363;
     color: white;
     font-size: 1.75rem;
     font-weight: 600;
@@ -106,7 +105,7 @@ body{
 
 
 .articles-container{
-    background-color: #63c6ae;
+    background-color: #c6a363;
     padding: 1.5rem;
     color: white;
     text-transform: uppercase;
@@ -155,9 +154,9 @@ body{
 
 
 .section-quote{
-    background-color: #63c6ae;
+    background-color: #c6a363;
     padding: 50px 0;
-    border-bottom: 12px solid #48b9a1;
+    border-bottom: 12px solid #c6a363;
     color: white;
     text-align: center;
 }
